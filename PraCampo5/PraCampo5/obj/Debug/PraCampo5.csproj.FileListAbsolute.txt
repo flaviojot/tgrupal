@@ -1,0 +1,8 @@
+C:\PROYECTOS\PractiCampo5\PraCampo5\PraCampo5\bin\Debug\PraCampo5.exe.config
+C:\PROYECTOS\PractiCampo5\PraCampo5\PraCampo5\bin\Debug\PraCampo5.exe
+C:\PROYECTOS\PractiCampo5\PraCampo5\PraCampo5\bin\Debug\PraCampo5.pdb
+C:\PROYECTOS\PractiCampo5\PraCampo5\PraCampo5\obj\Debug\PraCampo5.csproj.AssemblyReference.cache
+C:\PROYECTOS\PractiCampo5\PraCampo5\PraCampo5\obj\Debug\PraCampo5.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\PractiCampo5\PraCampo5\PraCampo5\obj\Debug\PraCampo5.exe
+C:\PROYECTOS\PractiCampo5\PraCampo5\PraCampo5\obj\Debug\PraCampo5.pdb
+C:\PROYECTOS\PractiCampo5\PraCampo5\PraCampo5\obj\Debug\PraCampo5.exe.config
