@@ -1,0 +1,7 @@
+C:\PROYECTOS\PractiCampo6\PractiCampo_6\PractiCampo_6\bin\Debug\PractiCampo_6.exe.config
+C:\PROYECTOS\PractiCampo6\PractiCampo_6\PractiCampo_6\bin\Debug\PractiCampo_6.exe
+C:\PROYECTOS\PractiCampo6\PractiCampo_6\PractiCampo_6\bin\Debug\PractiCampo_6.pdb
+C:\PROYECTOS\PractiCampo6\PractiCampo_6\PractiCampo_6\obj\Debug\PractiCampo_6.csproj.AssemblyReference.cache
+C:\PROYECTOS\PractiCampo6\PractiCampo_6\PractiCampo_6\obj\Debug\PractiCampo_6.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\PractiCampo6\PractiCampo_6\PractiCampo_6\obj\Debug\PractiCampo_6.exe
+C:\PROYECTOS\PractiCampo6\PractiCampo_6\PractiCampo_6\obj\Debug\PractiCampo_6.pdb
